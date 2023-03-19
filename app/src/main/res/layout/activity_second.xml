@@ -12,7 +12,7 @@
         android:layout_width="200dp"
         android:layout_height="30dp"
         android:layout_marginStart="4dp"
-        android:text="Create you plan's"
+        android:text="Create you plans"
         android:textColor="@color/black"
         android:textSize="25dp"
         android:textStyle="italic"
